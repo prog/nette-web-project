@@ -1,2 +1,6 @@
-/vendor
-app/config/config.local.neon
+/config/config-local.neon
+/docroot/res/lib/
+/logs/
+/node_modules/
+/temp/
+/vendor/
